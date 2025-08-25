@@ -55,7 +55,7 @@ Skilled at improving data quality, streamlining reporting workflows, and buildin
 
 ---
 
-## 📊 Featured Projects (Add repos to your GitHub and link here)
+## 📊 Featured Projects
 
 - **📈 Sales Dashboard in Power BI**  
   Designed a dynamic sales dashboard to track product performance, region-wise sales, and KPIs.
