@@ -59,14 +59,16 @@ Skilled at improving data quality, streamlining reporting workflows, and buildin
 
 - **📈 Sales Dashboard in Power BI**  
   Designed a dynamic sales dashboard to track product performance, region-wise sales, and KPIs.
+  https://github.com/pranshushrivastava10/Awesome_Chocolates_Sales
 
 - **📊 Data Cleaning with Python & Pandas**  
   Performed end-to-end data cleaning and transformation pipeline using Jupyter Notebooks.
+   https://github.com/pranshushrivastava10/Diabetes-Prediction
+   https://github.com/pranshushrivastava10/Sales_Analysis
 
 - **📁 SQL Reporting Automation**  
   Automated SQL queries and reports generation for logistics tracking.
-
-> *Feel free to check my repositories to explore more real-world data projects.*
+  https://github.com/pranshushrivastava10/Music_Store_Analyst
 
 ---
 
